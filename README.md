@@ -10,7 +10,7 @@
 
 
 
-This is a smart air conditioner controller based on motion detection adn room temperature.The system is build so as to minimixe the power consumption of air conditioners in offices when there is no one in the office or the temperature is low.This project is made to solve a problem in University of lagos, whereby individuals leave AC on through out the night with out any one in the place
+This is a smart air conditioner controller based room occupancy and temperature.The system is build so as to minimixe the power consumption of air conditioners in offices when no motion detected for a period of time and/or the temperature is low in an office.This project is made to solve a problem in University of Lagos, whereby air conditioners are left on through out the night or sometimes weekends
 
 ## Features
 
@@ -33,12 +33,12 @@ This is a smart air conditioner controller based on motion detection adn room te
 Schematics:
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="Smart Socket">
+        <img width=1000px height=600px src = "" alt="">
     </a>
 PCB:
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="Smart Socket">
+        <img width=1000px height=600px src = "" alt="">
     </a>
 
 
