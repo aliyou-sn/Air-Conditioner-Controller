@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="" rel="noopener">
-        <img width=200px height=200px src = "" alt="AC controller">
+        <img width=200px height=200px src = "https://github.com/aliyou-sn/Air-Conditioner-Controller/blob/main/3D/Unknown-3" alt="AC controller">
     </a>
 </p>
 
