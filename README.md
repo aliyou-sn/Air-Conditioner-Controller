@@ -27,18 +27,14 @@ This is a smart air conditioner controller based room occupancy and temperature.
 
 3D model:
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Air-Conditioner-Controller/blob/main/pics/3.jpeg" alt="">
+        <img width=1000px height=1000px src = "https://github.com/aliyou-sn/Air-Conditioner-Controller/blob/main/pics/3.jpeg" alt="">
     </a>
 
-Schematics:
 
-<a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="">
-    </a>
 PCB:
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="">
+        <img width=1000px height=1000px src = "https://github.com/aliyou-sn/Air-Conditioner-Controller/blob/main/pics/6.jpeg" alt="">
     </a>
 
 
