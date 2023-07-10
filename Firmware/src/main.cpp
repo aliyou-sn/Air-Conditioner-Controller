@@ -17,7 +17,11 @@ void AC_Control();
 DHT dht(DHTPIN, DHTTYPE);
 ESP32Time rtc(3600);
 String Now;
-String Start = "07:00:00";
+String Start1 = "07:00:01";
+String Start2 = "07:00:02";
+String Start3 = "07:00:03";
+String Start4 = "07:00:04";
+String Start5 = "07:00:05";
 String Stop = "19:00:00";
 
 ICACHE_RAM_ATTR void detectsMovement(){
@@ -38,8 +42,9 @@ void readweather(){
 
 void gettime(){
   Now = rtc.getTime();
-  if(Now == Start){
+  if(Now == Start1 || Now == Start2 || Now == Start3 || Now == Start4 || Now == Start5){
     action = true;
+    Serial.println("Active");
   }
   if(Now == Stop){
     action = false;

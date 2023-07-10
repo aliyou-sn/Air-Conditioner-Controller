@@ -8,11 +8,11 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/include",
-                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/src",
-                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/.pio/libdeps/d1_mini_lite/ESP32Time",
-                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/.pio/libdeps/d1_mini_lite/DHT sensor library",
-                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/.pio/libdeps/d1_mini_lite/Adafruit Unified Sensor",
+                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/include",
+                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/src",
+                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/.pio/libdeps/d1_mini_lite/ESP32Time",
+                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/.pio/libdeps/d1_mini_lite/DHT sensor library",
+                "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/.pio/libdeps/d1_mini_lite/Adafruit Unified Sensor",
                 "/Users/apple/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                 "/Users/apple/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                 "/Users/apple/.platformio/packages/toolchain-xtensa/include",
@@ -60,11 +60,11 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/include",
-                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/src",
-                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/.pio/libdeps/d1_mini_lite/ESP32Time",
-                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/.pio/libdeps/d1_mini_lite/DHT sensor library",
-                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/.pio/libdeps/d1_mini_lite/Adafruit Unified Sensor",
+                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/include",
+                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/src",
+                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/.pio/libdeps/d1_mini_lite/ESP32Time",
+                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/.pio/libdeps/d1_mini_lite/DHT sensor library",
+                    "/Users/apple/Documents/PlatformIO/Projects/Air Conditioner Controller/Firmware/.pio/libdeps/d1_mini_lite/Adafruit Unified Sensor",
                     "/Users/apple/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                     "/Users/apple/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                     "/Users/apple/.platformio/packages/toolchain-xtensa/include",
